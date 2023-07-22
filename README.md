@@ -28,6 +28,6 @@ Ce projet consiste en l'analyse approfondie des offres d'emploi en data science 
 1. Clonez le dépôt GitHub:
 
 ```bash
-git clone https://github.com/kbarouti/Glassdoor-Data-Science-Jobs.git
+git clone https://github.com/kbarouti/Glassdoor-Jobs-of-DS.git
 
 
